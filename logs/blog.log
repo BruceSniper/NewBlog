@@ -1,0 +1,116 @@
+INFO 2020-05-19 17:45:12,829 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 17:47:43,853 autoreload 203 E:\NewBlog\NewBlog\urls.py changed, reloading.
+INFO 2020-05-19 17:47:46,454 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 17:49:05,725 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 17:49:08,724 basehttp 154 "GET / HTTP/1.1" 200 4
+INFO 2020-05-19 17:49:27,165 autoreload 203 E:\NewBlog\NewBlog\urls.py changed, reloading.
+INFO 2020-05-19 17:49:30,720 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 17:50:38,862 autoreload 203 E:\NewBlog\NewBlog\urls.py changed, reloading.
+INFO 2020-05-19 17:50:40,956 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 17:51:23,601 autoreload 203 E:\NewBlog\NewBlog\urls.py changed, reloading.
+INFO 2020-05-19 17:51:25,728 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 17:51:42,982 autoreload 203 E:\NewBlog\NewBlog\urls.py changed, reloading.
+INFO 2020-05-19 17:51:45,748 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 17:52:03,302 autoreload 203 E:\NewBlog\NewBlog\urls.py changed, reloading.
+INFO 2020-05-19 17:52:06,221 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 17:52:17,374 autoreload 203 E:\NewBlog\NewBlog\urls.py changed, reloading.
+INFO 2020-05-19 17:52:19,866 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 17:52:54,400 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 17:53:12,947 urls 27 info
+INFO 2020-05-19 17:53:12,956 basehttp 154 "GET / HTTP/1.1" 200 4
+INFO 2020-05-19 17:56:46,144 autoreload 578 Watching for file changes with StatReloader
+WARNING 2020-05-19 17:57:01,726 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 17:57:01,733 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2073
+WARNING 2020-05-19 17:57:02,166 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 17:57:02,167 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2073
+WARNING 2020-05-19 17:57:02,804 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 17:57:02,805 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2073
+INFO 2020-05-19 17:57:03,216 basehttp 154 "GET /static/index.html HTTP/1.1" 200 12002
+INFO 2020-05-19 17:57:03,777 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2020-05-19 17:57:03,808 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2020-05-19 17:57:03,857 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2020-05-19 17:57:03,883 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2020-05-19 17:57:03,908 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-05-19 17:57:03,926 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-05-19 17:57:03,946 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2020-05-19 17:57:03,969 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2020-05-19 17:57:03,992 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2020-05-19 17:57:04,066 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2020-05-19 17:57:04,100 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2020-05-19 17:57:04,123 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2020-05-19 18:00:16,440 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 18:00:22,146 urls 27 info
+INFO 2020-05-19 18:00:22,158 basehttp 154 "GET / HTTP/1.1" 200 4
+INFO 2020-05-19 18:14:33,966 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 18:14:37,329 urls 27 info
+INFO 2020-05-19 18:14:37,349 basehttp 154 "GET / HTTP/1.1" 200 4
+INFO 2020-05-19 18:14:56,889 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 18:15:00,088 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2020-05-19 20:29:43,432 autoreload 578 Watching for file changes with StatReloader
+WARNING 2020-05-19 20:29:50,714 log 228 Not Found: /
+WARNING 2020-05-19 20:29:50,714 basehttp 154 "GET / HTTP/1.1" 404 2095
+WARNING 2020-05-19 20:30:03,839 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:30:03,841 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-19 20:30:04,404 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:30:04,405 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+INFO 2020-05-19 20:30:04,771 basehttp 154 "GET /register HTTP/1.1" 301 0
+INFO 2020-05-19 20:30:04,836 basehttp 154 "GET /register/ HTTP/1.1" 200 5217
+INFO 2020-05-19 20:30:05,172 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-05-19 20:30:05,188 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-05-19 20:30:05,316 basehttp 154 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+INFO 2020-05-19 20:30:05,322 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2020-05-19 20:30:05,521 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2020-05-19 20:30:05,546 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+WARNING 2020-05-19 20:30:58,312 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:30:58,314 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-19 20:30:58,892 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:30:58,895 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-19 20:30:59,534 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:30:59,536 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-19 20:31:00,144 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:31:00,145 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-19 20:31:00,753 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:31:00,754 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-19 20:31:01,356 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:31:01,357 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-19 20:31:01,957 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:31:01,958 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-19 20:31:02,606 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:31:02,607 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-19 20:31:02,885 log 228 Not Found: /users/
+WARNING 2020-05-19 20:31:02,887 basehttp 154 "GET /users/ HTTP/1.1" 404 2131
+INFO 2020-05-19 20:34:41,178 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 20:35:11,602 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 20:35:56,554 autoreload 203 E:\NewBlog\NewBlog\urls.py changed, reloading.
+INFO 2020-05-19 20:35:59,848 autoreload 578 Watching for file changes with StatReloader
+WARNING 2020-05-19 20:44:54,389 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:44:54,390 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-19 20:44:54,870 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 20:44:54,871 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+INFO 2020-05-19 20:44:55,292 basehttp 154 "GET /register/ HTTP/1.1" 200 5217
+INFO 2020-05-19 20:48:39,105 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 20:48:43,414 basehttp 154 "GET /register/ HTTP/1.1" 200 5210
+INFO 2020-05-19 20:55:48,484 autoreload 203 E:\NewBlog\users\models.py changed, reloading.
+INFO 2020-05-19 20:55:52,200 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 20:56:01,946 autoreload 203 E:\NewBlog\users\models.py changed, reloading.
+INFO 2020-05-19 20:56:06,403 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 20:56:25,219 autoreload 203 E:\NewBlog\users\models.py changed, reloading.
+INFO 2020-05-19 20:56:28,404 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 20:57:15,453 autoreload 203 E:\NewBlog\users\models.py changed, reloading.
+INFO 2020-05-19 20:57:18,050 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 20:57:27,702 autoreload 203 E:\NewBlog\users\models.py changed, reloading.
+INFO 2020-05-19 20:57:30,557 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 20:58:59,216 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 21:02:22,537 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 21:02:41,934 autoreload 203 E:\NewBlog\users\models.py changed, reloading.
+INFO 2020-05-19 21:02:44,661 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 21:04:28,989 autoreload 203 E:\NewBlog\users\models.py changed, reloading.
+INFO 2020-05-19 21:04:33,014 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-19 21:11:41,056 autoreload 578 Watching for file changes with StatReloader
+WARNING 2020-05-19 21:11:43,628 log 228 Not Found: /
+WARNING 2020-05-19 21:11:43,629 basehttp 154 "GET / HTTP/1.1" 404 2095
+WARNING 2020-05-19 21:11:47,443 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 21:11:47,444 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-19 21:11:48,053 log 228 Not Found: /favicon.ico
+WARNING 2020-05-19 21:11:48,053 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+INFO 2020-05-19 21:11:48,247 basehttp 154 "GET /register/ HTTP/1.1" 200 5210
