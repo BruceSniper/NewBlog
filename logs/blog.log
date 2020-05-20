@@ -114,3 +114,173 @@ WARNING 2020-05-19 21:11:47,444 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 214
 WARNING 2020-05-19 21:11:48,053 log 228 Not Found: /favicon.ico
 WARNING 2020-05-19 21:11:48,053 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
 INFO 2020-05-19 21:11:48,247 basehttp 154 "GET /register/ HTTP/1.1" 200 5210
+INFO 2020-05-20 10:13:53,692 autoreload 578 Watching for file changes with StatReloader
+WARNING 2020-05-20 10:13:56,946 log 228 Not Found: /
+WARNING 2020-05-20 10:13:56,947 basehttp 154 "GET / HTTP/1.1" 404 2095
+WARNING 2020-05-20 10:14:00,470 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 10:14:00,471 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-20 10:14:12,529 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 10:14:12,532 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+WARNING 2020-05-20 10:14:13,099 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 10:14:13,100 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2146
+INFO 2020-05-20 10:14:13,506 basehttp 154 "GET /register/ HTTP/1.1" 200 5210
+INFO 2020-05-20 10:18:34,153 autoreload 203 E:\NewBlog\NewBlog\settings.py changed, reloading.
+INFO 2020-05-20 10:18:37,027 autoreload 578 Watching for file changes with StatReloader
+WARNING 2020-05-20 10:18:50,936 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-05-20 10:18:50,940 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2020-05-20 10:19:05,437 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-05-20 10:25:44,881 basehttp 154 "GET /register/ HTTP/1.1" 200 5210
+INFO 2020-05-20 10:25:45,023 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2020-05-20 10:25:45,025 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-05-20 10:25:45,071 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-05-20 10:25:45,086 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2020-05-20 10:25:45,102 basehttp 154 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+INFO 2020-05-20 10:25:45,287 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2020-05-20 10:25:45,288 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+WARNING 2020-05-20 10:25:45,418 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-05-20 10:25:45,473 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2020-05-20 10:33:47,806 autoreload 203 E:\NewBlog\users\views.py changed, reloading.
+INFO 2020-05-20 10:33:50,443 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-20 11:01:46,050 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-20 11:02:25,633 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-20 11:02:42,867 autoreload 578 Watching for file changes with StatReloader
+WARNING 2020-05-20 11:03:04,707 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:04,708 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:05,257 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:05,259 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:05,877 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:05,878 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:06,474 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:06,476 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:07,089 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:07,090 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:07,777 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:07,778 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:08,327 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:08,328 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:08,927 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:08,930 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:09,550 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:09,557 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:10,159 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:10,161 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:10,759 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:10,760 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:11,369 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:11,370 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:11,965 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:11,966 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:12,581 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:12,581 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:13,185 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:13,186 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:13,798 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:13,804 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:14,395 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:14,397 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:15,013 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:15,014 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:15,628 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:15,629 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:16,227 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:16,228 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:16,820 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:16,821 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:17,430 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:17,430 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:18,043 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:18,044 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:18,646 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:18,649 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:19,248 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:19,248 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:19,862 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:19,863 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:20,474 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:20,475 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:21,075 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:21,076 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:21,689 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:21,690 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:22,304 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:22,306 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+WARNING 2020-05-20 11:03:22,892 log 228 Not Found: /favicon.ico
+WARNING 2020-05-20 11:03:22,895 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2321
+INFO 2020-05-20 11:05:58,845 basehttp 154 "GET /imagecode/?uuid=123 HTTP/1.1" 200 3477
+INFO 2020-05-20 11:12:18,157 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-20 11:12:22,062 basehttp 154 "GET /register/ HTTP/1.1" 200 5196
+INFO 2020-05-20 11:12:22,428 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2020-05-20 11:12:22,429 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2020-05-20 11:12:22,534 log 228 Not Found: /register/image_code_url
+WARNING 2020-05-20 11:12:22,535 basehttp 154 "GET /register/image_code_url HTTP/1.1" 404 2357
+INFO 2020-05-20 11:12:22,611 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-05-20 11:12:22,717 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2020-05-20 11:12:22,851 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2020-05-20 11:12:22,853 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+WARNING 2020-05-20 11:12:22,980 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-05-20 11:12:23,260 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2020-05-20 11:12:23,460 log 228 Not Found: /register/image_code_url
+WARNING 2020-05-20 11:12:23,462 basehttp 154 "GET /register/image_code_url HTTP/1.1" 404 2357
+INFO 2020-05-20 11:15:31,464 autoreload 578 Watching for file changes with StatReloader
+WARNING 2020-05-20 11:15:33,400 log 228 Not Found: /
+WARNING 2020-05-20 11:15:33,403 basehttp 154 "GET / HTTP/1.1" 404 2270
+INFO 2020-05-20 11:15:41,934 basehttp 154 "GET /register/ HTTP/1.1" 200 5196
+WARNING 2020-05-20 11:15:42,060 log 228 Not Found: /register/image_code_url
+WARNING 2020-05-20 11:15:42,060 basehttp 154 "GET /register/image_code_url HTTP/1.1" 404 2357
+WARNING 2020-05-20 11:15:42,667 log 228 Not Found: /register/image_code_url
+WARNING 2020-05-20 11:15:42,668 basehttp 154 "GET /register/image_code_url HTTP/1.1" 404 2357
+WARNING 2020-05-20 11:15:51,846 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-05-20 11:15:51,881 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2020-05-20 11:17:17,501 autoreload 203 E:\NewBlog\users\views.py changed, reloading.
+INFO 2020-05-20 11:17:19,683 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-20 11:17:28,766 basehttp 154 "GET /register/ HTTP/1.1" 200 5196
+INFO 2020-05-20 11:17:29,218 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-05-20 11:17:29,224 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2020-05-20 11:17:29,266 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+WARNING 2020-05-20 11:17:29,291 log 228 Not Found: /register/image_code_url
+WARNING 2020-05-20 11:17:29,292 basehttp 154 "GET /register/image_code_url HTTP/1.1" 404 2357
+INFO 2020-05-20 11:17:29,304 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2020-05-20 11:17:29,362 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2020-05-20 11:17:29,415 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+WARNING 2020-05-20 11:17:29,418 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-05-20 11:17:29,648 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2020-05-20 11:17:29,955 log 228 Not Found: /register/image_code_url
+WARNING 2020-05-20 11:17:29,956 basehttp 154 "GET /register/image_code_url HTTP/1.1" 404 2357
+INFO 2020-05-20 11:17:53,089 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-20 11:17:55,646 basehttp 154 "GET /register/ HTTP/1.1" 200 5196
+INFO 2020-05-20 11:17:55,805 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2020-05-20 11:17:55,807 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-05-20 11:17:55,855 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+WARNING 2020-05-20 11:17:55,904 log 228 Not Found: /register/image_code_url
+WARNING 2020-05-20 11:17:55,904 basehttp 154 "GET /register/image_code_url HTTP/1.1" 404 2357
+INFO 2020-05-20 11:17:55,961 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2020-05-20 11:17:56,286 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2020-05-20 11:17:56,310 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2020-05-20 11:17:56,417 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+WARNING 2020-05-20 11:17:56,539 log 228 Not Found: /register/image_code_url
+WARNING 2020-05-20 11:17:56,539 basehttp 154 "GET /register/image_code_url HTTP/1.1" 404 2357
+WARNING 2020-05-20 11:17:56,563 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-05-20 11:20:35,889 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-05-20 11:20:38,130 basehttp 154 "GET /register/ HTTP/1.1" 200 5197
+INFO 2020-05-20 11:20:38,502 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2020-05-20 11:20:38,504 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-05-20 11:20:38,522 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-05-20 11:20:38,546 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2020-05-20 11:20:38,568 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2020-05-20 11:20:38,572 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+WARNING 2020-05-20 11:20:38,652 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-05-20 11:20:38,801 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2020-05-20 11:20:38,977 basehttp 154 "GET /imagecode/?uuid=626ca7a9-4426-4599-b652-93705f355543 HTTP/1.1" 200 3095
+INFO 2020-05-20 11:20:42,284 basehttp 154 "GET /imagecode/?uuid=3e089782-e250-4f86-b605-8e08706a97b8 HTTP/1.1" 200 3184
+INFO 2020-05-20 11:20:44,555 basehttp 154 "GET /imagecode/?uuid=3170e90d-db76-41b2-aef5-5c1f44088e56 HTTP/1.1" 200 3212
+INFO 2020-05-20 11:20:45,479 basehttp 154 "GET /imagecode/?uuid=24d1b49b-8b72-45f1-bcd9-b0425a6aabf8 HTTP/1.1" 200 3148
+INFO 2020-05-20 14:47:56,205 basehttp 154 "GET /register/ HTTP/1.1" 200 5197
+INFO 2020-05-20 14:47:56,405 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2020-05-20 14:47:56,410 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-05-20 14:47:56,421 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-05-20 14:47:56,448 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2020-05-20 14:47:56,472 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2020-05-20 14:47:56,486 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+WARNING 2020-05-20 14:47:56,590 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2020-05-20 14:47:56,602 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2020-05-20 14:47:56,917 basehttp 154 "GET /imagecode/?uuid=3fb410c6-9a5f-4eb3-a6c8-0b33b692b035 HTTP/1.1" 200 2895
